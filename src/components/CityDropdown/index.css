@@ -1,0 +1,14 @@
+.dropdown {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .dropdown select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+  }
+  

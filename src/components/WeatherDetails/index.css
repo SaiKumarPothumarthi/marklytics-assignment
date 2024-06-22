@@ -1,0 +1,20 @@
+.weather-details {
+    text-align: left;
+    width: 100%;
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #7ca1d1;
+    margin: 20px;
+  }
+  
+  .weather-details h2 {
+    margin-bottom: 10px;
+  }
+  
+  .weather-details p {
+    margin: 5px 0;
+  }
+  
